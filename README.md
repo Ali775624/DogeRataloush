@@ -140,13 +140,13 @@ fun getAppData(): AppData {
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/CyberShieldX">
+  <a href="https://t.me/Driving_uncle_personally">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/CyberShieldX">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/CyberShieldX">
+  <a href="https://t.me/Driving_uncle_personally">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
   <a href="[https://www.youtube.com/@sphanter/about](https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ)">
