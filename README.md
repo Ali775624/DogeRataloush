@@ -149,7 +149,7 @@ fun getAppData(): AppData {
   <a href="https://twitter.com/CyberShieldX">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.youtube.com/@sphanter/about">
+  <a href="[https://www.youtube.com/@sphanter/about](https://youtube.com/channel/UCToOQLOgWylIjKuBy96zUuQ)">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
@@ -168,7 +168,7 @@ fun getAppData(): AppData {
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://t.me/Driving_uncle_personally"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/Driving_uncle_personally"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
